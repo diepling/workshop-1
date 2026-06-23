@@ -1,0 +1,22 @@
+## Analog coding 
+Interpreting a text according to a theme to look for meaningful patterns and connections in a text 
+Computational approach to humanistic coding 
+Existing platforms to leverage computational methods to code large quantities of text 
+Examples: Voyant tools (free), AntConc, NVivo 
+Python can also be used to write code to perform various computational forms of text analysis 
+
+Python and Jupyter Notebook 
+
+Literate programming 
+Better documentation of programs 
+Programs as works of literature 
+Practitioner of literary programming as essayists, who is concerned with exposition and excellence of style (coding as an essay: intro, the steps, what’s the answer/outcome) 
+
+Python and literate code 
+A computer language that supports the writing of “literary” code 
+Used to write original code and access “pre-made” code 
+High-level programming language: prioritizes readability versus more “machine-friendly”/computationally faster/processes data faster programming languages
+
+Jupyter Notebook 
+The environment which Python is coded in 
+
